@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588297887224.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2294127713",
+    "id" : "DC2B73CE",
+    "lastKnownWriteTime" : 1588286848,
+    "last_content_update" : 1588286848,
+    "path" : "C:/Users/Lin/Downloads/Twitter Module Code/twitter_samples.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "280,20",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

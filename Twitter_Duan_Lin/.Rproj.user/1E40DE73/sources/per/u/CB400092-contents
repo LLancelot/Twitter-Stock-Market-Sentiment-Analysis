@@ -1,0 +1,41 @@
+# Twitter
+rm(list=ls()); cat("\014")
+# use my own Twitter Developer API Key and Secret
+t.api.key <-"PbPWLhdVb9OyJGPxdAkgtKG8l"
+t.api.secret <- "xD8zKxIIsjQsmqxxafkm3LeyuAbcyHWo9wKinecazx69iYTvp9"
+t.access.token <- "873822439662170112-4I8XGrAwt1Dk22tonQpPxZprL37yrhx"
+t.access.secret <- "3hYtnLfnwQmtZfN6dkWMxrpaa2wU9YhdeStdJhpTGSefJ"
+
+# -------save credentials------
+library("twitteR")
+setup_twitter_oauth(consumer_key = t.api.key, consumer_secret = t.api.secret, 
+                    access_token = t.access.token, access_secret = t.access.secret)
+save(list = (c("t.api.key", "t.api.secret", "t.access.token", "t.access.secret")), file = "twitter_credentials.RData")
+# -----------------------------
+
+# For everyday use
+rm(list=ls()); cat("\014")
+library("twitteR")
+load("twitter_credentials.RData")
+setup_twitter_oauth(consumer_key = t.api.key, consumer_secret = t.api.secret, 
+                    access_token = t.access.token, access_secret = t.access.secret)
+# To test
+start <- getUser("cnnbrk")
+# start$description
+# start$name
+# start$lastStatus
+# start$id
+# screenName(start)
+followersCount(start)
+favoritesCount(start)
+location(start)
+start$getFollowerIDs(n=10)
+start$getFollowers(n=5)
+
+tweets1 <- searchTwitter("#bigdata", n=5)
+tweets1
+
+head(trends.locations)
+
+
+

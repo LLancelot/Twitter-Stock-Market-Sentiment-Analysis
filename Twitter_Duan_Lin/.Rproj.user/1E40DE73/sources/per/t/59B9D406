@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588296191978.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2454723948",
+    "id" : "59B9D406",
+    "lastKnownWriteTime" : 1588387562,
+    "last_content_update" : 1588387562044,
+    "path" : "C:/Users/Lin/Desktop/2020 SPR/688 Web/Twitter_Duan_Lin/Stock_Sentiment_Analysis.R",
+    "project_path" : "Stock_Sentiment_Analysis.R",
+    "properties" : {
+        "cursorPosition" : "132,25",
+        "scrollLine" : "103",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
