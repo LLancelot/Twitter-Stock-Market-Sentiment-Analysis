@@ -3,7 +3,7 @@
 ### Preliminary work:
 - Dataset: My choice of 6 stocks, 3 largest gainer and 3 loser stocks for the day (5/1/2020) (Source: [Yahoo Finance](https://finance.yahoo.com/gainers))
 - Use the R Twitter API to perform stock market sentiment analysis. (Developer tool: [Twitter API](https://developer.twitter.com/en))
-- Before performing analysis, you need to apply for apply for a Twitter developer account filling out an application for API access.
+- Before performing analysis, you need to apply for a Twitter developer account filling out an application for API access.
 - Create an "App" in developer account. Remember to get your Consumer API keys and tokens.
 
 ### Main work:
