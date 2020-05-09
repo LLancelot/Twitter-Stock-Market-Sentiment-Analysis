@@ -27,3 +27,14 @@ while losers has negative score (score=-6), which means the tweets contents rela
 gainers has more positive words thereby people may be optimistic about them. In contrast, losers stocks has been proved that they gained more unpromising or negative views by people.
 - In short, according to the result of sentiment score and detailed analysis given above, we conclude that the outcomes of sentiment analysis in Twitter stock market conform to the expected perspective that gainers stocks reveal positive score while losers stocks reveal negative score.
 
+
+
+---------
+
+
+
+### Charts:
+
+<img src="C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200509012605898.png" alt="image-20200509012605898" style="zoom: 50%;" /><img src="C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200509012702115.png" alt="image-20200509012702115" style="zoom:50%;" /><img src="C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200509012716379.png" alt="image-20200509012716379" style="zoom:50%;" /><img src="C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200509012813609.png" alt="image-20200509012813609" style="zoom:50%;" />
+
+<img src="C:\Users\Lin\AppData\Roaming\Typora\typora-user-images\image-20200509012518435.png" style="zoom:50%;" />
