@@ -7,7 +7,7 @@
 - Create an "App" in developer account. Remember to get your Consumer API keys and tokens.
 
 ### Main work:
-- Make necessary addition (if needed) to the lexicons (the positive and negative word lists), and comupute the sentiment score of all
+- Make necessary addition (if needed) to the lexicons (the positive and negative word lists), and compute the sentiment score of all
 the tweets for each gainers (losers) set.
 - Plot a bar chart of the sentiment. Use ***googleVis*** R package to create a candlestick plot of
 the stock prices for the stocks used for this project and compare them with a chart or table obtained 
